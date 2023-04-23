@@ -5,3 +5,20 @@ A pipeline is designed and developed using GCP services to extract Top 50 Global
 
 ## Architecture Diagram
 ![spotify GCP etl architecture diagram](https://github.com/NevinTomy/spotify-gcp-etl/blob/main/spotify-gcp-etl.jpeg)
+
+## Python Packages 
+* spotipy
+* google.cloud.storage
+* pandas
+* google.cloud.bigquery
+* datetime
+* json
+* io
+* os
+
+## GCP Services
+* Cloud Scheduler
+* Pub/Sub
+* Cloud Functions
+* Cloud Storage
+* Bigquery
